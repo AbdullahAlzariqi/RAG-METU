@@ -1,0 +1,74 @@
+[
+  {
+    "question": "If a visiting foreign doctor wants to work in two UAE medical facilities and needs controlled drugs prescription books, what is the total cost they would need to pay for both licensing and obtaining the prescription books?",
+    "answer": "The total cost for a visiting doctor working in two facilities with controlled drugs prescription books would be AED 3,300. This comprises a visiting doctor license fee of AED 3,100 (including AED 100 application fee and AED 3,000 license fee) plus AED 200 for two controlled drugs prescription books (AED 100 each)."
+  },
+  {
+    "question": "A new private hospital with 75 beds wants to hire a visiting doctor from outside UAE for a year and set up a 24-hour pharmacy service. What would be the total initial licensing costs for all these services, including the hospital license?",
+    "answer": "For a new private hospital with 75 beds, hiring a visiting doctor and setting up 24-hour pharmacy service, the total initial licensing costs would amount to AED 39,300. This includes AED 30,000 for the hospital license (50-100 beds category), AED 100 application fee, AED 3,100 for the visiting doctor (AED 100 application + AED 3,000 license), and AED 6,100 for 24-hour pharmacy service (AED 100 application + AED 6,000 annual permit)."
+  },
+  {
+    "question": "A medical facility wants to register a conventional pharmaceutical product and later modify its dosage. What would be the total timeline and fees involved in both processes?",
+    "answer": "For registering and modifying a conventional pharmaceutical product, the total timeline would be 67 working days (45 days for initial registration plus 22 days for modification). The total fees would be AED 11,600, broken down as AED 10,600 for initial registration (AED 100 application + AED 7,000 registration + AED 3,500 analysis) and AED 1,000 for modification."
+  },
+  {
+    "question": "If a pharmaceutical facility wants to change both its location and name in Dubai Healthcare City, what approvals would they need and what is the total cost for both changes?",
+    "answer": "For a pharmaceutical facility changing both location and name in Dubai Healthcare City, the total cost would be AED 2,200. This requires approvals from MOHAP, Dubai Healthcare City Authority, and Department of Economic Development. The cost breaks down as AED 1,100 for location change (AED 100 application + AED 1,000 fee) and AED 1,100 for name change (AED 100 application + AED 1,000 fee)."
+  },
+  {
+    "question": "For a medical facility that wants to add three new specialties and extend to 24-hour service, what would be the complete workflow and total costs?",
+    "answer": "Adding three new specialties and extending to 24-hour service would cost AED 24,200 total. The process takes approximately 2 working days for each specialty addition and 3 days for 24-hour service approval. The cost includes AED 18,000 for three specialties (AED 6,000 each), AED 100 application fee, and AED 6,100 for 24-hour service (AED 100 application + AED 6,000 annual fee)."
+  },
+  {
+    "question": "A new specialist clinic wants to start operations in UAE with initial clinic licensing, 24-hour pharmacy service, controlled drugs prescription book, and two visiting doctors from outside UAE. What would be the total initial cost?",
+    "answer": "For a new specialist clinic starting operations with initial licensing, 24-hour pharmacy service, controlled drugs prescription book, and two visiting doctors, the total initial cost would be AED 18,500. This includes AED 6,100 for initial clinic license (AED 100 + AED 6,000), AED 6,100 for 24-hour pharmacy (AED 100 + AED 6,000), AED 100 for controlled drugs book, and AED 6,200 for two visiting doctors (AED 200 applications + AED 6,000 licenses)."
+  },
+  {
+    "question": "A pharmaceutical facility needs to renew its registration of a conventional pharmaceutical product, change its location, and get approval for narcotic drugs quotas. What is the total timeline and fees?",
+    "answer": "A pharmaceutical facility renewing registration, changing location, and getting narcotic drugs quota approval would take 11-12 working days total and cost AED 4,800. This comprises AED 3,600 for product registration renewal, AED 1,100 for location change, and AED 100 for narcotic quotas."
+  },
+  {
+    "question": "If a medical facility wants to add a new specialty and hire a visiting doctor for it, what documents would be needed and what is the maximum timeline?",
+    "answer": "Adding a new specialty and hiring a visiting doctor would take 7 working days total and cost AED 9,200. Required documents include a request letter and list of licensed staff for the specialty addition, plus job offer, license copy, facility plan, insurance, and undertaking letter for the visiting doctor."
+  },
+  {
+    "question": "A hospital with 120 beds wants to renew its license, get approval for controlled drugs, and set up a 24-hour pharmacy service. What would be the annual cost and required approvals?",
+    "answer": "For a 120-bed hospital renewing its license, getting controlled drugs approval, and setting up 24-hour pharmacy service, the annual cost would be AED 46,300. This includes AED 40,100 for hospital renewal, AED 100 for controlled drugs, and AED 6,100 for 24-hour pharmacy. Required approvals include MOHAP license, Civil Defense, Economic Department, Drug Department, and waste management certification."
+  },
+  {
+    "question": "What is the complete process and total cost for a medical facility that wants to change location, modify pharmaceutical product registration data, and get a good manufacturing practice certificate?",
+    "answer": "he process of changing location, modifying pharmaceutical product registration data, and getting a good manufacturing practice certificate would take 32-38 working days total. The base cost would be AED 7,100 (AED 4,100 for location change, AED 1,000 for registration modification, plus AED 2,000 per production line for the GMP certificate)."
+  },
+  {
+    "question": "If a new pharmaceutical facility wants to export a batch of locally manufactured narcotic drugs, what steps are necessary for compliance, and does the facility require any additional permits or documentation?",
+    "answer": "To export locally manufactured narcotic drugs, the facility must: 1. Initial Licensing: Be registered and licensed by MOHAP as a medical warehouse or manufacturer. 2. Narcotics Quota Approval: Submit Form F6 detailing quantities and types for an annual narcotics quota. 3. Export Permit: Apply for an export permit for narcotics with documentation of the approved quota. 4. Certificate of Pharmaceutical Product (CPP): Obtain this certification from MOHAP confirming the product meets UAE standards for export. 5. Verification of Destination Compliance: Check if the destination country accepts UAE’s drug export certifications."
+  },
+  {
+    "question": "If a private clinic in the UAE wishes to change its name and simultaneously add a new specialty to its services, what are the procedural requirements and necessary documents for compliance with MOHAP regulations?",
+    "answer": "For a clinic to change its name and add a specialty, it must: 1. Change of Name: Apply through MOHAP with existing license, owner’s request letter, and updated trade license; the clinic must have been operational for at least six months. 2. Adding a Specialty: Submit a separate application specifying the new specialty and provide a list of relevant medical staff. 3. Verification: MOHAP will review both applications for compliance. 4. Approval: Upon approval, the clinic receives updated licenses electronically."
+  },
+  {
+    "question": "If I am appealing a decision regarding my medical licensing, how do I also apply for a renewal of my license to practice as a doctor?",
+    "answer": "To appeal a medical licensing decision, submit an appeal to the Office of the Minister of Health and Prevention within 15 days of receiving the decision. Simultaneously, to renew a license to practice as a doctor, log in to the MOHAP website, fill in the required information, attach necessary documents, and pay the renewal fee, ensuring compliance with continuous medical education requirements."
+  },
+  {
+    "question": "What is the process for appealing a healthcare advertisement violation and subsequently updating the healthcare advertisement license for the same institution?",
+    "answer": "To appeal a healthcare advertisement violation, submit an appeal to the relevant authority outlining the reasons for the appeal. After addressing the appeal, if necessary, update the healthcare advertisement license by logging into the MOHAP system, completing the renewal form, and providing any additional documents or amendments required, alongside the application fee for the updated advertisement license."
+  },
+  {
+    "question": "What are the requirements to renew a healthcare advertisement license in a medical directory, and how does the facility confirm the validity of its primary license before applying?",
+    "answer": "The facility must submit a renewal application for the healthcare advertisement license through the MOHAP website, attaching the necessary documentation and paying the application fee. To confirm the validity of its primary license, the facility must check its licensing status on the MOHAP system or contact the MOHAP support to ensure all current licenses are valid and compliant with regulatory requirements."
+  },
+  {
+    "question": "What is required to renew a pharmacist's license, and how does one also obtain an updated continuous education record for this renewal?",
+    "answer": "To renew a pharmacist's license, applicants must log in to the MOHAP website, provide the required documentation, and pay the renewal fee. They must also ensure that they have completed the necessary hours of continuous medical education (CME), which can be documented through participation in approved training programs or courses. A summary of CME hours completed must be attached to the renewal application."
+  },
+  {
+    "question": "What is the process to register medical equipment, and how can a company later apply for renewal of the registration for continued sales in UAE?",
+    "answer": "To register medical equipment, the company must apply through the MOHAP website, submitting documentation such as the ISO certification and product details. The approval process typically takes about 45 working days. To renew the registration, the company must resubmit the original registration certificate along with any required updated documents and ensure compliance with current regulations, which can be done online through MOHAP's electronic service system."
+  },
+  {
+    "question": "How can a complaint be lodged against a private health facility, and what are the follow-up requirements if the facility’s professional licenses are revoked due to the complaint?",
+    "answer": "Complaints against private health facilities can be submitted online via the MOHAP website or through customer service centers. If a facility’s professional licenses are revoked as a result of the complaint, follow-up may include reapplication for licenses, meeting additional compliance measures set by MOHAP, and undergoing inspections or assessments to ensure adherence to health regulations before being allowed to operate again."
+  }
+]
